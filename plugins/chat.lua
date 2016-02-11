@@ -5,8 +5,8 @@ end
 if msg.text == "Hi" then
   return "Hello honey"
 end
-if msg.text == "Hello" then
-  return "Hi bb"
+if msg.text == "مهدی" then
+  return "بابایی"
 end
 if msg.text == "hello" then
   return "Hi honey"
@@ -56,7 +56,7 @@ return {
     "^سلام",
     "^[Hh]ello$",
     "^[Mm]ohammad$",
-    "^mamad$",
+    "^مهدی$",
     "^[Bb]ot$",
     "^محمد$",
     "^بای$",

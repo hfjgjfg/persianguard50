@@ -17,8 +17,8 @@ end
 if msg.text == "salam" then
   return "va aleykol asalam"
 end
-if msg.text == "zac" then
-  return "Barash bezan sak"
+if msg.text == "الیور" then
+  return "با داداشم چیکاری داری؟؟"
 end
 if msg.text == "Mamad" then
   return "کارتو بگو من به بابایی خودم میگم"
@@ -59,7 +59,7 @@ return {
     "^مهدی$",
     "^[Bb]ot$",
     "^محمد$",
-    "^بای$",
+    "^الیور$",
     "^?$",
     "^[Ss]alam$",
     }, 
